@@ -3,7 +3,7 @@ package soap
 import (
 	"bytes"
 	"context"
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"fmt"
 	"io/ioutil"
 	"net/http"

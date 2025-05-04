@@ -5,7 +5,7 @@
 package gowsdl
 
 import (
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"io/ioutil"
 	"testing"
 )

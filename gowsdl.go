@@ -7,7 +7,7 @@ package gowsdl
 import (
 	"bytes"
 	"crypto/tls"
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"errors"
 	"fmt"
 	"io/ioutil"

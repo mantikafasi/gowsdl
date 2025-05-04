@@ -10,7 +10,7 @@ import (
 	"errors"
 	"reflect"
 	"strings"
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"net/http"
 
 	{{/*range .Imports*/}}

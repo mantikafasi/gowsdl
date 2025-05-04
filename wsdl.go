@@ -4,7 +4,7 @@
 
 package gowsdl
 
-import "encoding/xml"
+import "github.com/mantikafasi/goxml"
 
 const wsdlNamespace = "http://schemas.xmlsoap.org/wsdl/"
 

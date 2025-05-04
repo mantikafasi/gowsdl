@@ -3,7 +3,7 @@
 package gen
 
 import (
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"errors"
 	"fmt"
 	"net/http"

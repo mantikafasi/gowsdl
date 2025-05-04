@@ -1,7 +1,7 @@
 package soap
 
 import (
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"errors"
 	"fmt"
 	"io"

@@ -1,17 +1,17 @@
 # WSDL to Go
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hooklift/gowsdl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![GoDoc](https://godoc.org/github.com/hooklift/gowsdl?status.svg)](https://godoc.org/github.com/hooklift/gowsdl)
-[![Build Status](https://travis-ci.org/hooklift/gowsdl.svg?branch=master)](https://travis-ci.org/hooklift/gowsdl)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mantikafasi/gowsdl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GoDoc](https://godoc.org/github.com/mantikafasi/gowsdl?status.svg)](https://godoc.org/github.com/mantikafasi/gowsdl)
+[![Build Status](https://travis-ci.org/mantikafasi/gowsdl.svg?branch=master)](https://travis-ci.org/mantikafasi/gowsdl)
 
 Generates Go code from a WSDL file.
 
 ### Install
 
-* [Download release](https://github.com/hooklift/gowsdl/releases)
+* [Download release](https://github.com/mantikafasi/gowsdl/releases)
 * Download and build locally
-    * 1.15: `go get github.com/hooklift/gowsdl/...`
-    * 1.20: `go install github.com/hooklift/gowsdl/cmd/gowsdl@latest`
+    * 1.15: `go get github.com/mantikafasi/gowsdl/...`
+    * 1.20: `go install github.com/mantikafasi/gowsdl/cmd/gowsdl@latest`
 * Install from Homebrew: `brew install gowsdl`
 
 ### Goals

@@ -1,4 +1,4 @@
-GHACCOUNT := hooklift
+GHACCOUNT := mantikafasi
 NAME := gowsdl
 VERSION := v0.5.0
 

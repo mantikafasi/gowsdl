@@ -4,8 +4,8 @@ package gen
 
 import (
 	"context"
-	"encoding/xml"
-	"github.com/hooklift/gowsdl/soap"
+	"github.com/mantikafasi/goxml"
+	"github.com/mantikafasi/gowsdl/soap"
 	"time"
 )
 

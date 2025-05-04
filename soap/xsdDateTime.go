@@ -5,7 +5,7 @@
 package soap
 
 import (
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"strings"
 	"time"
 )

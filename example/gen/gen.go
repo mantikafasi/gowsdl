@@ -1,10 +1,10 @@
 package gen
 
 import (
-	"encoding/xml"
+	"github.com/mantikafasi/goxml"
 	"time"
 
-	"github.com/hooklift/gowsdl/soap"
+	"github.com/mantikafasi/gowsdl/soap"
 )
 
 // against "unused imports"
